@@ -5,4 +5,4 @@ Esse projeto foi feito em JSX, pelo o facilitador 'Expo' com o intuito de destin
 #### Foto do projeto no Expo
 ![FT](assets/Projeto-parci-2b.PNG)
 
-######Melhor visualização no WEB
+###### Melhor visualização no WEB
